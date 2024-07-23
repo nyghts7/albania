@@ -1,6 +1,14 @@
 Compiled by sunnysideupp1 (Lib Ted)
 
-Source: 
+Source: http://gis.tpginc.net/albania/
+
+[Location of Data from Source](http://gis.tpginc.net/albania/)
+
+[Legal Notice from Source](http://gis.tpginc.net/albania/)
+
+[Raw Excel File](https://github.com/nyghts7/andorra/blob/main/POBLACI%C3%93_PER_POBLE1872024_205226.xlsx)
+
+[Processed JSON File](https://github.com/nyghts7/andorra/blob/main/andorra.txt)
 
 Stats:
 + 2,887 settlements
