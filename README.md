@@ -1,6 +1,6 @@
 Compiled by sunnysideupp1 (Lib Ted)
 
-Source: http://gis.tpginc.net/albania/
+Source: The Pineridge Group, Inc. (www.tpginc.net/gis/albania) (2005)
 
 [Location of Data from Source](http://gis.tpginc.net/albania/) (See Villages listed under "The Data")
 
