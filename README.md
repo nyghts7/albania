@@ -4,7 +4,7 @@ Source: http://gis.tpginc.net/albania/
 
 [Location of Data from Source](http://gis.tpginc.net/albania/)
 
-[Legal Notice from Source](http://gis.tpginc.net/albania/)
+[Legal Notice from Source](http://gis.tpginc.net/albania/) (See "Acknowldgements", "Organization", and the opening statement)
 
 [Raw ShapeFile](https://github.com/nyghts7/albania/blob/main/Villages.zip)
 
