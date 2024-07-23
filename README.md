@@ -2,7 +2,7 @@ Compiled by sunnysideupp1 (Lib Ted)
 
 Source: http://gis.tpginc.net/albania/
 
-[Location of Data from Source](http://gis.tpginc.net/albania/)
+[Location of Data from Source](http://gis.tpginc.net/albania/) (See Villages listed under "The Data")
 
 [Legal Notice from Source](http://gis.tpginc.net/albania/) (See "Acknowldgements", "Organization", and the opening statement)
 
