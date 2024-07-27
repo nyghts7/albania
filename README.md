@@ -33,4 +33,4 @@ Stats:
  
 Image of Data:
 
-![Population distribution map of Albania](https://github.com/nyghts7/albania-populated-places/blob/main/albania.png)
+![Population distribution map of Albania](https://github.com/nyghts7/albania/blob/main/albania.png)
