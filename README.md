@@ -1,4 +1,4 @@
-Compiled by sunnysideupp1 (Lib Ted)
+Compiled by sunnysideupp1
 
 Source: The Pineridge Group, Inc. (www.tpginc.net/gis/albania) (2005)
 
